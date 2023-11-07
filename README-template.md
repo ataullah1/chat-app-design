@@ -3,7 +3,7 @@
 ### Links
 
 - [Project Live Links : ](https://ataullah1.github.io/chat-app-design/)
-- Solution URL: [Solution URL](view-source:https://ataullah1.github.io/chat-app-design/)
+- Solution URL: [view-source:https://ataullah1.github.io/chat-app-design/](view-source:https://ataullah1.github.io/chat-app-design/)
 - Live Site URL: [live site URL](https://ataullah1.github.io/chat-app-design/)
 
 - [Author >](https://www.linkedin.com/in/md-ataullah/)
