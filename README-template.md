@@ -6,7 +6,7 @@
 - Solution URL: [Solution URL](https://ataullah1.github.io/chat-app-design/)
 - Live Site URL: [live site URL](https://ataullah1.github.io/chat-app-design/)
 
-- [Author >](https://www.linkedin.com/in/md-ataullah/)
+- [Author > Md Ataullah](https://www.linkedin.com/in/md-ataullah/)
 
 ## Screenshot
 
